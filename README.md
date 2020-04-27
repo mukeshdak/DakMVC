@@ -1,7 +1,6 @@
 # DakMVC
 MVC framework fulfilling requirements of modern webistes.
-
-<img src="/mukeshdak/DakMVC/blob/master/logo.png?raw=true" alt="logo.png">
+[img src="/mukeshdak/DakMVC/blob/master/logo.png?raw=true" alt="logo.png"]
 
 ## Version
 - Last Updated: 2020-04-27 13:56 IST
